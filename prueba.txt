@@ -1,2 +1,4 @@
-Cualquier texto
-Esta es una neuva linea
+Apuntes del curso Diseño Web
+
+Fuente legible en web 16 pixeles
+Se duplica el tamaño de una imagen para que se vea bien en retina
