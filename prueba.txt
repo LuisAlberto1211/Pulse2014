@@ -1,4 +1,19 @@
 Apuntes del curso Diseño Web
 
 Fuente legible en web 16 pixeles
+La fuente se declara en pixeles
 Se duplica el tamaño de una imagen para que se vea bien en retina
+Los navegadores arrancan con estilos predeterminados distintos
+Caja: Elemento que tiene márgenes
+Tecnica de flotar y posiciones relativas y absolutas
+EM: Valor de la letra M en pixeles
+
+PIXELES: Valores Relativos
+PORCENTAJES: Tamaño variable
+EM: Valores relativos a la fuente principal
+
+Las cajas TIENEN POSICIONES
+Por defecto es STATIC 
+RELATIVE: Se puede mover la caja en un plano cartesiano sin importar el margen
+ABSOLUTE: La caja rompe el vinculo con el eje cartesiano principal y va al punto (0,0)
+	  Busca dentro del árbol el elemento mas cercano a algo relative
